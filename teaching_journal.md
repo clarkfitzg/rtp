@@ -1,3 +1,8 @@
+Sat Feb 22 06:58:13 PST 2020
+
+In the word problems I'm starting to use names that are representative of the student body population, rather than "Joe".
+
+
 Wed Feb 19 15:02:24 PST 2020
 
 Just watched a webinar on mid course evaluations.
