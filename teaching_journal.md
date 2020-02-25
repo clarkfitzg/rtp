@@ -1,3 +1,8 @@
+Mon Feb 24 13:38:53 PST 2020
+
+Avoid dependent problems, because it's hard if students make a mistake early on, and you need to track it through the problem.
+
+
 Wed Feb 19 15:02:24 PST 2020
 
 Just watched a webinar on mid course evaluations.
