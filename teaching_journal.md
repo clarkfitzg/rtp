@@ -1,3 +1,12 @@
+Fri Mar  6 06:51:06 PST 2020
+
+I've been having quizzes and exams on Friday- I wonder how much the day of the week matters?
+I do like to get them back graded the next class meeting, and that's easier if I have more than 1 day.
+
+Wondering how much to focus on calculation versus conceptual questions.
+I think it's good to have a mix of both.
+
+
 Mon Feb 24 13:38:53 PST 2020
 
 Avoid dependent problems, because it's hard if students make a mistake early on, and you need to track it through the problem.
