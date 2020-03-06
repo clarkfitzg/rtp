@@ -15,3 +15,5 @@ This is an exhaustive list of professional activities outside of teaching.
 - February extra office hours for exam extra points
 - February casual interactions / mentorship at Veteran's Space in Lassen Hall
 - March beginning to develop GE data science course with Michelle Norris and Kristin Van Gaasbeck in economics
+- March submit new 'big data' course proposal to department curriculum committee
+- March design and administer mid quarter course survey
