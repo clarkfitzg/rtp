@@ -1,3 +1,11 @@
+Mon Mar  9 07:57:35 PDT 2020
+
+Most students in Stat 50 don't start HW until day it's due.
+I know because of online HW.
+For lower div courses I prefer to give more short assignments, i.e. 2 or 3 per week rather than 1 per week.
+It's also not worth much of their grade, only 10%.
+
+
 Fri Mar  6 06:51:06 PST 2020
 
 I've been having quizzes and exams on Friday- I wonder how much the day of the week matters?
