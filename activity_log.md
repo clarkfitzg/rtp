@@ -18,3 +18,4 @@ This is an exhaustive list of professional activities outside of teaching.
 - March submit new 'big data' course proposal to department curriculum committee
 - March design and administer mid quarter course survey
 - March advised student for grad school
+- March advised student interested in data science career
