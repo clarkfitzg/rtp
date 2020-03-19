@@ -19,3 +19,6 @@ This is an exhaustive list of professional activities outside of teaching.
 - March design and administer mid quarter course survey
 - March advised student for grad school
 - March advised student interested in data science career
+- March created publicly accessible lectures using iPad
+- March created publicly accessible lectures demonstrating how to use technology to virtually teach.
+- March created "math dept hallway" Microsoft Teams account to facilitate informal department interaction in a remote setting.
