@@ -1,3 +1,12 @@
+Fri Mar 27 10:34:37 PDT 2020
+
+Aligning course outcomes is a powerful feature in Canvas.
+I'm using these.
+Students ask for study guides- standards and evaluation should be clear and focused, especially in lower division classes where students follow a relativey structured material.
+
+It might be fun to plant incorrect solutions to quizzes in Canvas.
+Then students should carefully review their solutions to quizzes to make sure they understand them.
+
 Mon Mar  9 07:57:35 PDT 2020
 
 Most students in Stat 50 don't start HW until day it's due.
