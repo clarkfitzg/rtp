@@ -1,3 +1,13 @@
+Sat Apr  4 09:58:16 PDT 2020
+
+Students are complaining (fairly) that it's not clear what they need to study to do well on the exams.
+I'm thinking that for a lower division course I need to be very explicit about what's required to pass.
+I think the 25-30% fail rate is not good.
+Probably this should mean doing basic problems like the ones on the homework.
+To get an A is another matter- for this they should be able to do harder problems.
+
+
+
 Mon Mar  9 07:57:35 PDT 2020
 
 Most students in Stat 50 don't start HW until day it's due.
