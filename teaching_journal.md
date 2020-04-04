@@ -7,6 +7,15 @@ Probably this should mean doing basic problems like the ones on the homework.
 To get an A is another matter- for this they should be able to do harder problems.
 
 
+Fri Mar 27 10:34:37 PDT 2020
+
+Aligning course outcomes is a powerful feature in Canvas.
+I'm using these.
+Students ask for study guides- standards and evaluation should be clear and focused, especially in lower division classes where students follow a relativey structured material.
+
+It might be educational to plant incorrect solutions to quizzes in Canvas.
+Then students should carefully review their solutions to quizzes to make sure they understand them.
+
 
 Mon Mar  9 07:57:35 PDT 2020
 
