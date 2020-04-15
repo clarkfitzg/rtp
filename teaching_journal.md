@@ -1,9 +1,22 @@
+Wed Apr 15 15:45:29 PDT 2020
+
+I like using names in my word problems.
+It makes things feel more engaging, more active.
+Further, I can sample names from a diverse mix of students to quietly slip in the idea that all races and genders can do stats / math / computing.
+
+Compare:
+"A 95% confidence interval was found."
+
+"Chloe found a 95% confidence interval."
+
+
+
 Sat Apr  4 09:58:16 PDT 2020
 
 Students are complaining (fairly) that it's not clear what they need to study to do well on the exams.
 I'm thinking that for a lower division course I need to be very explicit about what's required to pass.
 I think the 25-30% fail rate is not good.
-Probably this should mean doing basic problems like the ones on the homework.
+Probably this should mean they can do basic problems like the ones on the homework.
 To get an A is another matter- for this they should be able to do harder problems.
 
 

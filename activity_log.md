@@ -24,3 +24,4 @@ This is an exhaustive list of professional activities outside of teaching.
 - March created "math dept hallway" Microsoft Teams account to facilitate informal department interaction in a remote setting.
 - March designed and administered randomized exams (unique to each individual) to preserve academic honesty and integrity.
 - April attended ergonomic training
+- April 15 advised student for grad school
