@@ -1,3 +1,10 @@
+Wed Apr 29 09:58:37 PDT 2020
+
+It seems like males participate more in the online group discussion activities.
+Is this a real effect?
+No, I think it's just one class has few females, most of whom are quiet.
+
+
 Wed Apr 15 15:45:29 PDT 2020
 
 I like using names in my word problems.
