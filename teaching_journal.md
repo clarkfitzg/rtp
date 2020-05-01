@@ -1,3 +1,9 @@
+Fri May  1 08:24:10 PDT 2020
+
+There are so many little things to consider when teaching online.
+For example, I use a small 13" monitor so that when I share my screen students who also may be on small monitors can see what I'm doing.
+
+
 Wed Apr 29 09:58:37 PDT 2020
 
 It seems like males participate more in the online group discussion activities.
