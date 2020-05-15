@@ -18,6 +18,7 @@ This is an exhaustive list of professional activities inside and outside of teac
     TODO: Grab comments
 - March designed and administered randomized exams (unique to each individual) to preserve academic honesty and integrity.
 - April Used Discord, an app favored by the students, to interact with class and answer question, in addition to Canvas.
+- May joined Topaz' "Math Teaching and Solidarity Virtual Meetups"
 
 ### Scholarly and Creative Activity
 
