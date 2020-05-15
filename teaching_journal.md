@@ -1,3 +1,14 @@
+Thu May 14 17:03:05 PDT 2020
+
+Grading finals now, fighting with Canvas rubrics because I'm trying to use them like I used Gradescope, and they're not working.
+The lowest score on the final was from a student who turned all the HW in super early, before I even posted lectures.
+How were they doing the hw?
+It makes me think the HW score should be worth relatively less.
+
+Next time I'm going to make everyone use cam scanner, or something that compiles a PDF.
+So much easier for grading.
+
+
 Fri May  1 08:24:10 PDT 2020
 
 There are so many little things to consider when teaching online.
