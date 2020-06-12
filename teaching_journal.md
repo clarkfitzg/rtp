@@ -24,7 +24,7 @@ How can I help students invest in the online class community, and feel they belo
 __How are you hoping this experience will affect your future teaching?__
 
 First of all, I need basic education in how to teach effectively.
-Spring 2020 was my first semester teaching, and my PhD did not prepare me to teach well.
+Spring 2020 was my first semester teaching, and my PhD at an R1 University didn't emphasize teaching too much.
 
 Second, I hope that I can incorporate some of the positive aspects of online classes into my future in person classes.
 For example, some simple grading tasks can be automated, which provides students with immediate feedback compared to returning paper copies.
