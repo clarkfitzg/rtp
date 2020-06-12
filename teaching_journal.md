@@ -1,3 +1,46 @@
+Fri Jun 12 15:23:04 PDT 2020
+
+Idea: Optional class meetings?
+Need some way to filter the breakout rooms so that only people who actually want to talk are there.
+
+Teaching philosophy: Students get out of school what they put into it.
+
+
+Fri Jun 12 15:13:53 PDT 2020
+
+Applying to summer online teaching
+
+
+__Specifically, what is the single most important thing you hope to gain/learn from the STEM Side Car experience that will directly impact your teaching in the Fall?__
+
+I hope to learn techniques to engage students and cultivate a sense of community in the online classroom. 
+I believe that for online classes, this sense of community can only come from intentional structure and design of activities; it won't happen spontaneously as it sometimes does in a physical classroom.
+Once classes went online in Spring 2020, I found it difficult to encourage students to speak up and ask questions.
+Sometimes worksheet breakout sessions with small groups sparked vibrant conversation, and other times they were completely silent.
+How can I design my online classes so students can benefit from our department's relatively small class sizes?
+How can I help students invest in the online class community, and feel they belong?
+
+
+__How are you hoping this experience will affect your future teaching?__
+
+First of all, I need basic education in how to teach effectively.
+Spring 2020 was my first semester teaching, and my PhD did not prepare me to teach well.
+
+Second, I hope that I can incorporate some of the positive aspects of online classes into my future in person classes.
+For example, some simple grading tasks can be automated, which provides students with immediate feedback compared to returning paper copies.
+
+
+
+Fri May 15 06:38:29 PDT 2020
+
+What I want in hand written assignment grading:
+
+- detailed feedback
+- anonymous, as in- I don't want to know who I'm grading, because otherwise whatever opinion I've formed on that student could creep in.
+- PDF with camscanner, or other app
+- rectangle around final answer
+
+
 Thu May 14 17:03:05 PDT 2020
 
 Grading finals now, fighting with Canvas rubrics because I'm trying to use them like I used Gradescope, and they're not working.
