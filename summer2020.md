@@ -22,15 +22,15 @@ The Project Euler website verifies the correctness of the solution, which will a
 
 Our reading group will strengthen the data science technology user community at Sac State.
 Julia is open source and free, so as our students graduate and take jobs in the Sacramento area, they can continue to use Julia and other open source languages in their work.
-This alumni user base may promote the growth of these productive technologies, and increase the demand for local courses to teach them.
-By strengthening the local programming community in Sacramento we can support the growth of appealing local tech jobs, which aligns with the [Anchor University Initiative](https://www.csus.edu/experience/anchor-university/).
+This alumni user base will promote the growth of these productive technologies, and may increase the demand for local courses to teach them.
+Strengthening the local programming community in Sacramento supports the growth of appealing local tech jobs, which aligns with the [Anchor University Initiative](https://www.csus.edu/experience/anchor-university/).
 
 
 ## Student Proposed Machine Learning Project
 
 An undergraduate student proposed the following project: train a machine learning model to distinguish videos of different skateboarding tricks.
 We will start by producing labeled data of two skateboarding tricks: ollie and kickflip.
-Some of the data will include tricks performed by the student and by me.
+Some of the data will include videos of the tricks performed by the student and by me.
 This labeled data is a valuable research output, and we plan to publish it through a publicly available outlet such as [Dryad](https://datadryad.org/stash).
 
 We will use the data to train a neural network, and test the classification performance of the model on new test data.
