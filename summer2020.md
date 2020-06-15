@@ -2,7 +2,7 @@
 
 Clark Fitzgerald
 
-_This proposal fulfills part of the faculty startup request agreement with Dean Joanna Mott from March 2019 for 1 month summer salary.
+_This proposal fulfills part of the faculty startup request agreement with Dean Joanna Mott from March 2019, which required me to submit a proposal and report of outcomes for 1 month summer salary.
 I submitted this document to Dr. David Zeigler, Chair, Department of Mathematics and Statistics, on June 15, 2020.
 I will follow up with a report of outcomes in August 2020._
 
