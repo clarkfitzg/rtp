@@ -1,3 +1,37 @@
+## Online Presence
+
+Fri Jun 26 09:20:32 PDT 2020
+
+I've started writing educational material, and I think I'll probably write quite a bit more in the future.
+Should I attempt to publicize it outside of my classes?
+This means sharing it on public forums like Twitter and Discord.
+I'm concerned that these apps eat up too much of my time.
+I'm also concerned that writing educational materials won't count for much when it comes to tenure.
+I want to do it in the first place because the resources don't exist, and I need to make them available in some form for my classes.
+It's also for my own benefit- writing about something forces me to understand it better.
+
+How can I mitigate my concerns?
+I can accept that the materials aren't perfect- avoid excessive editing and wordsmithing.
+Just get something out there.
+I can also allocate a specific amount of time to spend on public forums and email, and strictly stick to that.
+Treat it all as more of a broadcasting service.
+Have some "Sorry if I don't respond- I spend limited time online." 
+I can ignore whoever I want to ignore- people will disagree and criticize.
+No reason to humor the trolls.
+I can keep the apps off my phone, so I'm not tempted to constantly check in.
+
+What are the peripheral benefits to getting my name out there?
+Jake Vanderplas said that his blog helped him get his job at UW.
+Man, his resume is impressive- I need to quit reading those :)
+I'm not looking for a job, but having some name recognition could help with speaking at conferences, and general good will in the open source community.
+
+Just learned that I have a web page through Sac State.
+I can publish my blog and course content there.
+I'd rather have full control over the HTML generation than go through Canvas for the STAT 128 stuff.
+
+
+------------------------------------------------------------
+
 Wed Apr 29 11:42:38 PDT 2020
 
 Going to speak with David Z. about research projects.

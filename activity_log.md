@@ -20,10 +20,16 @@ This is an exhaustive list of professional activities inside and outside of teac
 - April Used Discord, an app favored by the students, to interact with class and answer question, in addition to Canvas.
 - May joined Topaz' "Math Teaching and Solidarity Virtual Meetups"
 
+
 ### Scholarly and Creative Activity
 
 - February 20 presented research poster at D3 event
-- April Rat movement patterns paper with Jeff Calton
+- April-May Rat movement patterns paper with Jeff Calton
+- June [contribute to Julia language documentation](https://github.com/JuliaLang/julia/pull/36202)
+- June [contribute to Julia Debugger documentation](https://github.com/JuliaDebug/Debugger.jl/pull/261)
+- June [user narrative describing Julia Debugger](http://clarkfitzg.github.io/2020/06/19/intro-to-Julia's-Debugger/)
+- June advised undergraduate [student machine learning project](https://github.com/LightningDrop/SkateboardML)
+
 
 ### Contributions to Institution / Community
 
@@ -40,3 +46,7 @@ This is an exhaustive list of professional activities inside and outside of teac
 - April attended ergonomic training
 - April 15 virtually advised student for grad school
 
+
+### Unclassified
+
+- June Julia language [summer reading group](https://github.com/clarkfitzg/summer20euler)

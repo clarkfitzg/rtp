@@ -42,6 +42,9 @@ Of course, I want the students to feel welcome and included, and to have a clear
 Maybe there are better ways to do this than creating a bunch of HTML pages.
 For example, embed the welcome video in an announcement.
 
+How can students know if they're all caught up in my class?
+I want that to be completely clear.
+
 
 ------------------------------------------------------------
 
