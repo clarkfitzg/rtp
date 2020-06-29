@@ -45,6 +45,58 @@ For example, embed the welcome video in an announcement.
 How can students know if they're all caught up in my class?
 I want that to be completely clear.
 
+Got an email reminding me to turn in an assignment that I already turned in.
+This makes me wonder: "did I actually turn in the assignment?"
+This could cause students stress.
+We can eliminate this by using the feature on Canvas: "message students who have not completed this assignment", and not mentioning deadlines in other places.
+In other words- communicate consistently, and try to be DRY.
+
+What do I _have_ to know, as in what will I be tested on?
+What's just a supplemental resource?
+What should I read before doing the homework?
+
+In the first week's quiz I could ask students what concerns they have, and how we can work together to mitigate them.
+This might not be so hot, because it's negative.
+
+The references in this course are clumsy.
+I have no idea what QM 2.4, 3.9 means.
+Better to use the power of the web and hyperlink where appropriate.
+
+Some students like community and working together, while others like to just do their own work and be done.
+I should offer ways for both to be successful, and keep the invitations open.
+Also I should be clear on which activities are mandatory and which are not.
+I want a community, but it's hard to force it on people.
+
+Some students might struggle to get to class consistently, for many reasons.
+What should I do about that?
+
+Course suggests avoiding long lectures- good thing I already do that with my YouTube lectures.
+
+Excellent question in one of the videos- what do you want your students to remember / take away from your course in one year, five years?
+Keep this in mind when you write your course outcomes.
+
+Idea: Assign students to write blog posts describing techniques with computation in STAT 128.
+Clearly identify the audience: i.e. someone with an undergrad CS degree, but no knowledge of R.
+This helps prepare them to be content creators.
+Another assignment- interpret a data analysis for a general technical audience, explaining the techniques used.
+
+I like Fink's taxonomy.
+What's really important with computing is learning how to learn, how to test your mental model of what is happening.
+The nuts and bolts of a particular language's syntax can be dull and similar.
+It's better to understand the design and unifying ideas behind it all, or how certain decisions were made, and what the tradeoffs were.
+
+I missed the deadlines to do peer review because I didn't work on a Sunday, and didn't bother to look at what was due that weekend.
+
+I think the biggest problem for me last quarter was a lack of alignment.
+This came out in the feedback, when students rightly complained that the exams were more difficult- on par with the worksheets, and the lectures and homeworks didn't prepare them to succeed on them.
+
+Watching these videos and navigating the content in the online school, I feel pretty beat after a couple hours.
+Could be the time of day, plus 6+ hours of screen time already today.
+I'll bet students feel like that all the time, especially for courses that they're not excited about.
+
+Feedback in assessments is nice.
+I should do more of that.
+
 
 ------------------------------------------------------------
 
