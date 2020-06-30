@@ -45,6 +45,9 @@ For example, embed the welcome video in an announcement.
 How can students know if they're all caught up in my class?
 I want that to be completely clear.
 
+
+## 2
+
 Got an email reminding me to turn in an assignment that I already turned in.
 This makes me wonder: "did I actually turn in the assignment?"
 This could cause students stress.
@@ -80,6 +83,8 @@ Clearly identify the audience: i.e. someone with an undergrad CS degree, but no 
 This helps prepare them to be content creators.
 Another assignment- interpret a data analysis for a general technical audience, explaining the techniques used.
 
+## 3
+
 I like Fink's taxonomy.
 What's really important with computing is learning how to learn, how to test your mental model of what is happening.
 The nuts and bolts of a particular language's syntax can be dull and similar.
@@ -97,11 +102,100 @@ I'll bet students feel like that all the time, especially for courses that they'
 Feedback in assessments is nice.
 I should do more of that.
 
+
+## 4
+
 TODO: Use [Inter font](https://rsms.me/inter/) for my personal website.
 Beautiful, accessible font, what's not to like?
 
 TODO: Adopt consistent naming schemes and locations for files / materials.
 Make sure students know where they can find them.
+
+My general principles of simplicity in online courses:
+
+- Flat is better than nested.
+- Fewer clicks are better.
+- Fewer formats / sites are better.
+    Whenever possible, stick with HTML.
+
+As a counter example of simplicity, to learn about making PDF's accessible in my current course I had to click on another link, which brought me to another online course, where I had to browse to find the content, which I eventually contained in a .docx file that I had to download.
+
+Last semester, when I posted PDF's generated from LaTeX: \LaTeXL A T E X, the accessibility meter was always red, meaning these are the least accessible documents. 😢 
+
+The module on accessibility has some content on how to make PDF's more accessible.
+However, there's nothing specific to LaTeX: \LaTeXL A T E X, which is a widely used tool in STEM.
+How to make it more accessible?
+
+Musing now.
+🤔 HTML is generally easier on students, because they don't have to download and mess around with separate documents.
+Annotating PDF's works well on my tablet.
+Maybe I'll just write the source in markdown so that I can generate both HTML and PDF's from it.
+I'll just accept whatever bad formatting the defaults produce in the PDF.
+That seems like it would offer the most flexibility with the least amount of work.
+
+It's not clear to me exactly how these Community of Inquiry ideas apply to math courses.
+Do we talk about how people feel about theorems?
+
+I wonder if I could occasionally have my kids appear, for example, when I send the students a quick video.
+People do that with their pets, say it makes them seem more human to their students.
+
+TODO: Personal feedback on assignments / exams.
+Wow, even possible to do video and audio feedback on assignments and quizzes- that has some great potential.
+If I could screen capture while I scroll through their work and point out what's strong and places to improve- that would be super cool, and probably faster / better than written comments.
+Often I'm thinking, "ah, simple arithmetic mistake. Darn!"
+I'll have to be judicious about where and how I use it though.
+Only have so much time.
+A weekly personal message _seems_ doable.
+I'll have 100 students.
+If each one takes 1-2 minutes to do that's 2-4 hours grading / messaging per week.
+
+Maybe I could even encourage the students to make voice recordings of comments with their assignment submissions, opens it up for a two way asynchronous communication.
+Voices and videos can express much more emotion than simple text.
+It's also probably easier for them to say things in a voice recording they wouldn't say in written text- like if they're frustrated, what worked, what didn't.
+I can emphasize that this is an entirely private communication between us, and I will never share specifics with anyone else.
+
+Send welcome email, open Canvas up a week or two before the semester starts.
+
+Need to know if students have trouble accessing any recorded material.
+
+Tell students- I never used emoji before, but I think they can help make online courses feel more human.
+So I do it, even though I think they're ridiculous.
+
+Have SLA to set expectations for email responsiveness.
+
+Wow, it's clear that having too many words per line is hard to read.
+
+How do I implement proactive support?
+Encouraging students to come to office hours doesn't seem to suffice.
+What if I reserved slots during class time for office hours, and then assigned this to some students?
+That could make them feel singled out.
+
+I like the idea of soliciting student ideas for how to make equitable and inclusive courses.
+For example, I'm a heterosexual white male, and I don't feel like I know what makes courses equitable and inclusive.
+
+Just spoke with a student about diversity and inclusion, and he said how students often look up to their Professors.
+Be caring, Don't be arrogant.
+It seems like common sense, but don't shame them or make them feel dumb if they ask a question that is simple.
+Especially don't do this publicly.
+I asked him and he said I didn't do this sort of thing, but he's heard stories.
+Indeed, I've been on the receiving end of such behavior.
+First generation college students may be particularly sensitive, suffering from imposter syndrome.
+
+He also mentioned how people don't expect statistics to be a politically and emotionally loaded class.
+Perhaps I could use this to generate engagement and interest in the course.
+Find things they care about, and show how to use statistics to create bias.
+
+Wouldn't that be a super cool assignment- have students use the same data set and generate completely opposite interpretations.
+Say that you can delete outliers, or reinterpret the meanings of the fields as you see fit.
+
+This seems to also come up often when people start learning to program.
+The computer does not "know what you meant".
+It does exactly what you tell it, every time, and this makes it unforgiving.
+
+I need an example of "hidden curriculum" embedded in schools before I know what it means.
+I can't find anything actionable in this DEI material.
+I want to know concisely and practically what I can do.
+I don't understand the jargon around these academic disciplines outside my domain.
 
 
 ------------------------------------------------------------
