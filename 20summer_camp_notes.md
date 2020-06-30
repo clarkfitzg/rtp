@@ -97,6 +97,12 @@ I'll bet students feel like that all the time, especially for courses that they'
 Feedback in assessments is nice.
 I should do more of that.
 
+TODO: Use [Inter font](https://rsms.me/inter/) for my personal website.
+Beautiful, accessible font, what's not to like?
+
+TODO: Adopt consistent naming schemes and locations for files / materials.
+Make sure students know where they can find them.
+
 
 ------------------------------------------------------------
 
