@@ -197,13 +197,29 @@ I can't find anything actionable in this DEI material.
 I want to know concisely and practically what I can do.
 I don't understand the jargon around these academic disciplines outside my domain.
 
-------------------------------------------------------------
+<<<<<<< Updated upstream
+=======
+Funny- tiny image infographic- no possibility of reading.
+Cool idea for a project: an infographic generator.
+
+Idea: Use data gathered from class in surveys to choose the most interesting case studies for homework assignments.
+
+Think-pair-share?
+
+Watching this very elaborate reading activity for an English class.
+Would it be possible to do a similar activity with reading a Statistics textbook?
+Maybe!
+I could identify important passages of text and have students read them while I share my screen and make highlights and annotations.
+Have each student read one paragraph at a time.
+
 Idea: get groups competing for extra credit.
 Incentivizes interaction and participation.
 
 Idea: model example discussion activity and allow time for questions __before__ sending people to breakout rooms.
 Then they don't spend time messing around reading the directions asking, what does he want us to do?
 
+
+------------------------------------------------------------
 
 Organize notes above into categories below.
 
