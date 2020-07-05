@@ -225,6 +225,55 @@ Activities are only valuable if they're a means to this end.
 
 ## 5
 
+The formatting on the Canvas rubric is not good- too hard to read with the long vertical columns.
+It would be better to keep the rubric as a separate document.
+
+Summative assessments measure student performance.
+
+Watching this video that's just text and a bunch of things moving around for no reason.
+Why not just make text?
+
+I don't feel like I can ditch the textbook yet.
+It's a pretty good resource.
+
+Here are some things I can potentially do for assessment in STAT 50:
+- homework, Mcgraw Hill
+- quizzes, Mcgraw Hill
+- quizzes, Canvas
+- written quiz, where I give personal feedback
+- written hw, where I give personal feedback
+
+Literally every math or math related course I've ever taken in undergrad relied mostly on exams to determine the final grade.
+There's nothing subjective.
+
+Here's an idea- what if I just get rid of all the quizzes, exams, and finals, and just call them something different?
+Although there is that department policy that every course have a final.
+
+It's funny to see how this course breaks even the most basic rules of web content- write informative text for the hyperlink, not "here".
+
+What is the effect of honor codes in quizzes?
+Does it matter?
+
+I feel like so much of this course doesn't apply to math- it seems more geared towards the humanities.
+Hopefully the STEM course can fill in the gaps.
+
+Hmmm... multiple opportunities to pass the same test.
+Students liked that when I gave it to them.
+I wonder if I could do that on the midterms?
+
+Wow, there's a policy for how much study time courses should take!
+"undergraduate courses should provide one hour of lecture along with two hours study time each week, per unit, for a total of 45 hours over a 15-week semester."
+STAT 50 is 4 units, which means 4 hours in class and 8 hours outside of class.
+I always thought it was 3 hours outside of class.
+What does that mean for a math course though?
+One person can easily take 10x longer than another to understand the same concept, and then still not get it as well.
+
+For STAT 128, the outcome is that the students can apply stats to real data and produce reasonable solutions.
+The HW's can all do that.
+It would be good to add a reflection / meta part to each assignment.
+
+The scoring guide rubric in Canvas is probably what I should use.
+
 
 ------------------------------------------------------------
 
