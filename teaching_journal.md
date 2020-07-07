@@ -1,3 +1,10 @@
+Tue Jul  7 07:45:02 PDT 2020
+
+stat128: activity on "cleaning up code".
+    Take code that repeats itself many times, and put it in an `lapply`.
+    Write process for this: identify repetition, put it in function, call appropriate apply function.
+
+
 Fri Jun 12 15:23:04 PDT 2020
 
 Idea: Optional class meetings?
