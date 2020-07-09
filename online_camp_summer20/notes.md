@@ -237,11 +237,14 @@ I don't feel like I can ditch the textbook yet.
 It's a pretty good resource.
 
 Here are some things I can potentially do for assessment in STAT 50:
-- homework, Mcgraw Hill
+- homework, Mcgraw Hill automated
+- homework, Mcgraw Hill manual
+- discussions, read a relevant news article and analyze the statistics used.
+    They can submit responses in videos or text.
 - quizzes, Mcgraw Hill
 - quizzes, Canvas
-- written quiz, where I give personal feedback
-- written hw, where I give personal feedback
+- written quiz where I give personal feedback
+- written hw where I give personal feedback
 
 Literally every math or math related course I've ever taken in undergrad relied mostly on exams to determine the final grade.
 There's nothing subjective.
@@ -273,6 +276,49 @@ The HW's can all do that.
 It would be good to add a reflection / meta part to each assignment.
 
 The scoring guide rubric in Canvas is probably what I should use.
+
+
+## 6
+
+This module organization seems like a PITA for both the students and the instructor.
+I don't need a video reading a script that's directly below it, because I can read and retain much faster than I watch a video.
+Then again, students might not learn the same way I do, and they might appreciate the video.
+Students who don't want to watch it can skip over it.
+
+I think it makes more sense to stick tighter to the textbook content, and avoid creating my own content where possible, especially in STAT 50.
+People have thought about what to do in intro stats classes for a long time, and I think they can do a fine job explaining the concepts.
+It's sometimes hard for me, because I've seen the problems before, and they're really obvious to me.
+I can supplement the text with other material that I feel is important.
+In other words, staying within the boundaries prescribed by the book seems safe and sustainable to deliver a standard class.
+STAT 50 is not the place to get all creative and develop content- that's what the computing classes are for.
+Better to give them lots of standard practice problems, and work through them during lecture.
+
+Idea: align everything up with the book sections and chapters- modules, homeworks, exams, everything.
+This is more clear for the students.
+
+Another thing- my performance is evaluated based on numerical scores in courses.
+Why do anything that will lower my score, especially if it's more work for me?
+That doesn't make any sense at all.
+
+Explicitly describe social norms with salutations and signatures.
+
+When I use Mcgraw Hill I need to have the student experience- make sure I go through and try to do the homework as they see it.
+
+In Spring 2020 I used a LOT of announcements as things always changed.
+COVID-19 forced that on everyone.
+It would be better to structure the course in a way that I don't need to make any announcements.
+All the activities are regular and predictable.
+
+I like the submission comments as a way to communicate personally with the students.
+This can take the place of a journal.
+
+Is it possible to import questions from Mcgraw Hill into Canvas?
+That would be kind of nice.
+
+Embedded content from my personal website in Canvas basically doesn't work.
+The URL is http, so the students need to permit Canvas to display insecure content.
+When they do that, all the CSS and other goodies go away, so it looks like crap.
+Disappointing.
 
 
 ------------------------------------------------------------

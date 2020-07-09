@@ -97,7 +97,6 @@ __Activities:__
 - asynchronous video lectures
 - synchronous problem solving sessions
 
-
 __Assessments/Deliverables__ 
 
 - HW 2
