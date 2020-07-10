@@ -320,6 +320,36 @@ The URL is http, so the students need to permit Canvas to display insecure conte
 When they do that, all the CSS and other goodies go away, so it looks like crap.
 Disappointing.
 
+I'm not satisfied with the [current STAT 50 syllabus](https://www.csus.edu/college/natural-sciences-mathematics/mathematics-statistics/_internal/docs/stat050.pdf)
+This is a terminal statistics course, so students should come out of the course with the ability to apply stats to problems in their domain.
+
+I scored 4.5 out of 12 on the rubric assignment.
+This appears to be mostly pedantic, because I didn't use the Canvas rubric.
+This makes me think I need to focus more on fulfilling the pedantic rubric requirements, and less on thinking hard about what will really make a positive student experience.
+In other words, I'm not invested in the class anymore.
+Good thing it's almost done.
+
+I have several reasons for not using the Canvas rubric:
+
+1. I tried and tried to get the rubric to work last semester, and it never worked for statistics, because I cannot specify the exact feedback that relates to the student work.
+    Thus, the rubric does not help in providing feedback.
+    Instead, I plan to leave personal, individual feedback using a variety of media.
+3. When I look at the rubric and I see a bunch of negative or half done things, it makes me think about the bare minimum I can do to eke by.
+    I want to tell students what excellence looks like, not mediocrity.
+2. For actual descriptive rubrics, as in this course, the rubric formatting is nearly unintelligible with the text in very long columns, and it will be even worse on mobile.
+    It drives me crazy to read or write them.
+    Legible text on a web page is far better.
+
+
+I've been looking more into Canvas Outcomes- there's so much potential here, but so little functionality.
+Guess I'll just have to maintain something separate myself.
+😢 That's the story of my experience with Canvas.
+Probably I'm focusing excessively on the negatives.
+Canvas could certainly be a lot worse.
+
+
+
+
 
 ------------------------------------------------------------
 
