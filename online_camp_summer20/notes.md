@@ -348,19 +348,35 @@ Probably I'm focusing excessively on the negatives.
 Canvas could certainly be a lot worse.
 
 
+## 7
+
+TODO: Include code of conduct.
+
+What's a good pace for quizzes, homeworks, and exams?
+I'm thinking to do two light homeworks per week for STAT 50.
+How about quizzes every week, half online, and half written / take home.
+I want to give them real feedback on handwritten work.
+Actually it depends on if we get Gradescope how feasible this will be.
+
+I definitely want to have fewer high stakes exams, to disincentivize cheating.
+
+Written feedback can indeed come across differently and more harshly than intended.
+How many times did I feel that during my PhD?
+How can I soften the blow, and focus on the positive and growth?
+
+Idea: incorporate some competitive games each week.
+For example, we'll read the top three discussion responses.
+
+TODO: Make submission comments a part of weekly assignment submissions.
+Get students to speak to me, and tell me what's going on in the assignments where I'm providing them spoken or video feedback.
+
+Idea: assign students to create content (videos, slides, podcasts) explaining some concept in statistics.
+Give them an audience- you're talking to a small child, a businessman, a judge.
+
+Use more real examples.
+Look hard and find real models and applications.
+
+Idea: Give students time during class to research a topic and then discuss.
 
 
 
-------------------------------------------------------------
-
-
-Organize notes above into categories below.
-
-
-What do I plan to do for my fall semester course(s)?
-
-
-What might I do for my fall semester course(s)?
-
-
-What do I want to save for later for another semester?
