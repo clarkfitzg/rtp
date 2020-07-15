@@ -1,3 +1,31 @@
+Wed Jul 15 13:28:34 PDT 2020
+
+I got my website up and going, and put a little content on there, enough to start.
+Now I need a goal.
+What's going to be a good sell for the RTP?
+I need to demonstrate impact.
+Getting a bunch of traffic is fine, but I don't think it's especially compelling.
+Growth in traffic might be interesting.
+
+Personal narratives and accounts of how people use this content could be quite useful.
+My Sac state email is already publicly out there, so I can add a footer to every page along the lines of, "If you find this useful or you spot an error, please let me know." with my email address.
+
+Another thing to remember is that I don't need to write the content for every single lecture for STAT 50.
+I can just link and cover existing content in the Canvas page.
+The biggest value add from my website happens when the content doesn't exist.
+
+What uses of my site are the most valuable?
+David mentioned that if I can show others are using them in courses, that's a good thing.
+Well, any email shows some kind of broader impacts.
+
+Where do I want people to share it?
+Here are a few options:
+- Twitter
+- LinkedIn
+- Hacker News
+- Reddit
+
+
 ## Online Presence
 
 Fri Jun 26 09:20:32 PDT 2020
