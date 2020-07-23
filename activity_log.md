@@ -28,7 +28,7 @@ This is an exhaustive list of professional activities inside and outside of teac
 - April-May Rat movement patterns paper with Jeff Calton
 - June [contribute to Julia language documentation](https://github.com/JuliaLang/julia/pull/36202)
 - June [contribute to Julia Debugger documentation](https://github.com/JuliaDebug/Debugger.jl/pull/261)
-- June [user narrative describing Julia Debugger](http://clarkfitzg.github.io/2020/06/19/intro-to-Julia's-Debugger/)
+- June-July [user narrative describing Julia Debugger](http://clarkfitzg.github.io/2020/06/19/intro-to-Julia's-Debugger/)
 - June advised undergraduate [student machine learning project](https://github.com/LightningDrop/SkateboardML)
 
 
@@ -51,3 +51,4 @@ This is an exhaustive list of professional activities inside and outside of teac
 ### Unclassified
 
 - June Julia language [summer reading group](https://github.com/clarkfitzg/summer20euler)
+- July Initiated and participated in [Julia language design discussions](https://discourse.julialang.org/t/when-should-a-function-accept-a-symbol-as-an-argument/43510/2)

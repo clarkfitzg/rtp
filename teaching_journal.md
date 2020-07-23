@@ -1,3 +1,10 @@
+Thu Jul 23 13:58:28 PDT 2020
+
+Reading [NYT article on effort and achievement](https://nymag.com/news/features/27840/).
+I wonder how I can incorporate more safe failure into my classes?
+"Write about what you don't understand, and what you've tried to learn it."
+
+
 Tue Jul  7 07:45:02 PDT 2020
 
 stat128: activity on "cleaning up code".
