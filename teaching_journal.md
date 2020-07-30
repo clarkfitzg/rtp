@@ -1,3 +1,5 @@
+TODO: incorporate video assignments into courses.
+
 Thu Jul 23 13:58:28 PDT 2020
 
 Reading [NYT article on effort and achievement](https://nymag.com/news/features/27840/).

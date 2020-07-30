@@ -334,9 +334,9 @@ I have several reasons for not using the Canvas rubric:
 1. I tried and tried to get the rubric to work last semester, and it never worked for statistics, because I cannot specify the exact feedback that relates to the student work.
     Thus, the rubric does not help in providing feedback.
     Instead, I plan to leave personal, individual feedback using a variety of media.
-3. When I look at the rubric and I see a bunch of negative or half done things, it makes me think about the bare minimum I can do to eke by.
+2. When I look at the rubric and I see a bunch of negative or half done things, it makes me think about the bare minimum I can do to eke by.
     I want to tell students what excellence looks like, not mediocrity.
-2. For actual descriptive rubrics, as in this course, the rubric formatting is nearly unintelligible with the text in very long columns, and it will be even worse on mobile.
+3. For actual descriptive rubrics, as in this course, the rubric formatting is nearly unintelligible with the text in very long columns, and it will be even worse on mobile.
     It drives me crazy to read or write them.
     Legible text on a web page is far better.
 
