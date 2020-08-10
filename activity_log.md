@@ -20,6 +20,7 @@ This is an exhaustive list of professional activities inside and outside of teac
 - April Used Discord, an app favored by the students, to interact with class and answer question, in addition to Canvas.
 - May joined Topaz' "Math Teaching and Solidarity Virtual Meetups"
 - July attended MAA intro to IBL (inquiry based learning) online 
+- July completed CSUS Teach Online summer program
 
 
 ### Scholarly and Creative Activity
@@ -46,6 +47,7 @@ This is an exhaustive list of professional activities inside and outside of teac
 - March created "math dept hallway" Microsoft Teams account to facilitate informal department interaction in a remote setting.
 - April attended ergonomic training
 - April 15 virtually advised student for grad school
+- August advised student on military, published [My education path](http://webpages.csus.edu/fitzgerald/my-education-path/)
 
 
 ### Unclassified
