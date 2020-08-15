@@ -6,14 +6,15 @@ _This report fulfills the remainder of my faculty startup request agreement with
 I submitted this report to Dr. David Zeigler, Chair, Department of Mathematics and Statistics, on DATE_
 
 
-This summer I finished a journal article, and developed expertise in the new [Julia programming language](https://julialang.org/).
+This summer I developed expertise in the new [Julia programming language](https://julialang.org/).
 Julia builds on existing compiler technology to solve many of the challenges in statistical computing through its fundamental design, which makes it a compelling choice for researchers experimenting with data science software and numerical algorithms.
+In other areas, I collaborated with other faculty across campus on a statistical analysis, resulting in a publication.
 I also advised an undergraduate student on a successful machine learning project.
 
 
 ## Paper Accepted in Behavioral Neuroscience
 
-I completed the statistical analysis for a project led by Jeff Calton in the Psychology Department.
+I analyzed the data for a project led by Jeff Calton in the Psychology Department.
 The journal Behavioral Neuroscience accepted our paper titled "Disruption of the Anterior Thalamic Head Direction Signal Following Reduction of the Hippocampal Theta Rhythm" on August 10th.
 By analyzing the time series of neuron firing data, I was able to provide evidence that no rhythmic patterns could be detected in the data, which was essential for the arguments and interpretation presented in the paper.
 
