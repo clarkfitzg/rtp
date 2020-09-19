@@ -31,6 +31,7 @@ This is an exhaustive list of professional activities inside and outside of teac
 - June [contribute to Julia Debugger documentation](https://github.com/JuliaDebug/Debugger.jl/pull/261)
 - June-July [user narrative describing Julia Debugger](http://clarkfitzg.github.io/2020/06/19/intro-to-Julia's-Debugger/)
 - June advised undergraduate [student machine learning project](https://github.com/LightningDrop/SkateboardML)
+- September 18th 30 minute presentation to 50 people at CSU MC2 colloquim, "Goodbye Z tables, hello R"
 
 
 ### Contributions to Institution / Community
