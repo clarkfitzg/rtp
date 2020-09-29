@@ -21,6 +21,8 @@ This is an exhaustive list of professional activities inside and outside of teac
 - May joined Topaz' "Math Teaching and Solidarity Virtual Meetups"
 - July attended MAA intro to IBL (inquiry based learning) online 
 - July completed CSUS Teach Online summer program
+- September assigned data analysis projects on relevant, timely data sets - air quality affects on fire up to the current day
+- September participated in department teaching discussions
 
 
 ### Scholarly and Creative Activity

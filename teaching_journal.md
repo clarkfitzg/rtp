@@ -1,3 +1,7 @@
+Tue Sep 22 12:01:31 PDT 2020
+
+For online courses
+
 TODO: incorporate video assignments into courses.
 
 Thu Jul 23 13:58:28 PDT 2020
