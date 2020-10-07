@@ -52,6 +52,7 @@ This is an exhaustive list of professional activities inside and outside of teac
 - April 15 virtually advised student for grad school
 - August advised student on military, published [My education path](http://webpages.csus.edu/fitzgerald/my-education-path/)
 - October served on curriculum committee
+- October 6th judged [CA ELECTION 2020 DATA CHALLENGE](https://datalab.ucdavis.edu/ca-election-2020-data-challenge/) for UC Davis Datalab
 
 
 ### Unclassified
