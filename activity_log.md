@@ -51,6 +51,7 @@ This is an exhaustive list of professional activities inside and outside of teac
 - April attended ergonomic training
 - April 15 virtually advised student for grad school
 - August advised student on military, published [My education path](http://webpages.csus.edu/fitzgerald/my-education-path/)
+- October served on curriculum committee
 
 
 ### Unclassified
