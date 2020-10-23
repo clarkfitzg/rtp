@@ -1,3 +1,9 @@
+Thu Oct 22 09:26:15 PDT 2020
+
+Did a lecture in STAT 50 where we discussed real life scenarios and which data generated processes should be IID.
+It felt right- less formal mathematics, more reasoning about what the underlying concepts and assumptions are.
+
+
 Tue Sep 22 12:01:31 PDT 2020
 
 For online courses

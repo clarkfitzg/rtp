@@ -59,3 +59,4 @@ This is an exhaustive list of professional activities inside and outside of teac
 
 - June Julia language [summer reading group](https://github.com/clarkfitzg/summer20euler)
 - July Initiated and participated in [Julia language design discussions](https://discourse.julialang.org/t/when-should-a-function-accept-a-symbol-as-an-argument/43510/2)
+- October [data science career panel](http://webpages.csus.edu/fitzgerald/data-science-panel-2020/) attended by 61.
