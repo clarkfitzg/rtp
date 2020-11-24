@@ -53,6 +53,8 @@ This is an exhaustive list of professional activities inside and outside of teac
 - August advised student on military, published [My education path](http://webpages.csus.edu/fitzgerald/my-education-path/)
 - October served on curriculum committee
 - October 6th judged [CA ELECTION 2020 DATA CHALLENGE](https://datalab.ucdavis.edu/ca-election-2020-data-challenge/) for UC Davis Datalab
+- October STAT 196K class was approved.
+- November initiated and led subcommittee from curriculum for lower division computing / technology course for math
 
 
 ### Unclassified
