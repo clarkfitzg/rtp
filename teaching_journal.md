@@ -1,3 +1,20 @@
+Wed Nov 25 11:04:58 PST 2020
+
+Saw positive responses for Kahoot extra credit quiz, for example:
+
+> While other gave us online zoom recordings and quizzes @professor fitz gave us extra credit :pray:
+> Thank you professor
+
+I think the quick feedback helped with this- I put the extra credit in immediately after the quiz.
+It's one less TODO item for later.
+
+This makes me think about the human psychology around the language "extra credit".
+It's similar to buying something that is $500 on sale for $400 with "free shipping".
+Compared to paying the standard fixed price of $350 with $20 shipping.
+
+With extra credit, students feel good, like they're doing something above and beyond.
+
+
 Thu Oct 22 09:26:15 PDT 2020
 
 Did a lecture in STAT 50 where we discussed real life scenarios and which data generated processes should be IID.
