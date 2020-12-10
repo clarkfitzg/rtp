@@ -1,3 +1,17 @@
+Thu Dec 10 10:42:05 PST 2020
+
+Received some great feedback on the oral interview.
+It needs to be 15 minutes, not 10 minutes.
+
+- Doing a 5 minute interview early in the semester could be valuable for building rapport with the students, and making them feel comfortable turning on their cameras.
+- I need to be more animated when giving lectures.
+- Students need a points incentive to participate.
+- Never call on students for an extended amount of time.
+    If they don't respond in <5 seconds, then move on.
+    One student fell asleep when I did this, and he was so embarrassed that he never came back to live class.
+
+
+
 Thu Dec 10 10:20:40 PST 2020
 
 I think it would be better to have the final project earlier, say 2/3 of the way through the semester.
@@ -23,6 +37,7 @@ Instead of answering, I went explicitly through my programming and discovery pro
 
 Students need to practice and understand this reasoning / problem solving process far more than they need to see an expertly finished product of code.
 
+This makes me think that I need to leave more time in class to let students ask me their questions, and demonstrate this process live.
 
 
 Thu Dec  3 10:23:08 PST 2020
