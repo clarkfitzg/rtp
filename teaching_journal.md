@@ -1,3 +1,41 @@
+Thu Dec 10 10:20:40 PST 2020
+
+I think it would be better to have the final project earlier, say 2/3 of the way through the semester.
+Students seem more motivated then, judging by the assignment submission patterns.
+Call it the "class project".
+
+Several students have mentioned how they don't want to ask questions in other classes because of the attitude of their instructors if the ask a basic question, instructor says "How can you not know that?"
+This is a real shame.
+
+If I spend a bunch of time answering a question that's too basic or too advanced, then it doesn't help the majority of the class.
+I'm learning that it's safer to assume students don't have the background, and then bring them up to speed.
+
+I've been using basic questions as an opportunity to go beyond, and make connections that can benefit students at different levels.
+For example, the question, "How do I make a bar plot using the ggplot2 software?" wouldn't be particularly interesting if I just provided a one line answer.
+Instead of answering, I went explicitly through my programming and discovery process, which includes:
+
+- Coming up with a minimal working example
+- Stating clearly what I would like to produce
+- Trying something I think might work
+- Making a slight change so I can get to something that does work, but does the wrong thing
+- Reading the documentation to discover how the relevant function, `geom_bar`, should be used.
+- Applying the documentation and getting it to work as I intend.
+
+Students need to practice and understand this reasoning / problem solving process far more than they need to see an expertly finished product of code.
+
+
+
+Thu Dec  3 10:23:08 PST 2020
+
+Next time for STAT 128- get students used to summarizing results.
+Maybe use multiple projects?
+Also post in response to summaries.
+
+Idea: concisely summarize high level highlights of results.
+Explain one plot.
+Can do it through video or writing.
+
+
 Wed Nov 25 11:04:58 PST 2020
 
 Saw positive responses for Kahoot extra credit quiz, for example:
