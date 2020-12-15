@@ -1,3 +1,10 @@
+Tue Dec 15 08:22:35 PST 2020
+
+For the final I required 0.1% numerical accuracy, compared to 1% on the midterm, and this is causing a problem.
+I called it out explicitly in the instructions, and showed how to do them correctly, but good students are still messing it up.
+So I either need to relax the numerical accuracy standards, or get them in the habit of doing the correct computations earlier on.
+
+
 Thu Dec 10 10:42:05 PST 2020
 
 Received some great feedback on the oral interview.
