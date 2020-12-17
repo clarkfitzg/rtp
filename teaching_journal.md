@@ -1,3 +1,16 @@
+Thu Dec 17 08:18:52 PST 2020
+
+Next time for final project in STAT 128:
+
+- Emphasize narrative in project
+- Require introduction / abstract
+
+Many students using Tidyverse for final project, even though I didn't teach it.
+Perhaps it's worth teaching / relying more heavily on?
+
+Idea: Linear regression to uncover the weights for final grades.
+
+
 Tue Dec 15 08:22:35 PST 2020
 
 For the final I required 0.1% numerical accuracy, compared to 1% on the midterm, and this is causing a problem.
