@@ -1,3 +1,25 @@
+Tue Jan 19 09:31:49 PST 2021
+
+Think about a 5 minute interview for a class of 30.
+That's 150 minutes = 2.5 hours, which is not at all bad if I break it up over say 4 sessions.
+The purpose is so that students feel more comfortable talking to me, and more at ease in the class.
+It gives them a chance to directly ask anything they might not feel comfortable asking in front of their peers.
+
+What should I change for STAT 50 compared to last semester?
+
+1. Give points for participation
+2. Force numerical precision in calculations
+3. More opportunities for interaction.
+    Group work? No.
+    How about more group discussions and assignment feedback?
+
+I like the group discussion idea.
+In STAT 128 I used groups of 5-6, and that was too few for breakout rooms.
+I'm going to do more Canvas discussions- those worked well with around 10 students of faculty members in a few different settings.
+I didn't encounter any issues with going too big- like for the video review assignments with the whole class of 60.
+KISS for the feedback / responses- identify one thing that works well, and one way to improve.
+
+
 Thu Dec 17 08:18:52 PST 2020
 
 Next time for final project in STAT 128:
