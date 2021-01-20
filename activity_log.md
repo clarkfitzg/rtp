@@ -7,6 +7,7 @@ This is an exhaustive list of professional activities inside and outside of teac
 ### Teaching
 
 - January wrote letter of recommendation for student
+- January SEO for students that I work with
 
 ### Scholarly and Creative Activity
 
