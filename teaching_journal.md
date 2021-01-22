@@ -1,3 +1,17 @@
+Fri Jan 22 10:38:29 PST 2021
+
+I like the idea of having many small, regular assignments focused on self contained skills, and then larger "project" assignments that bring together many of these skills to do actual practical data analysis.
+Students tend to work at the last minute, despite their best intentions.
+There's a huge psychological difference between, "yeah, you should do these exercises on your own, for your own benefit" and "turn it in for credit".
+The latter is much better motivation.
+How often do I do the exercises if I'm casually reading some technical writing?
+Almost never.
+
+With Canvas, it's not any harder to have multiple assignments, particularly when things are graded automatically.
+In contrast, if we turn everything in by hand, that's a lot of paper to handle.
+This is an example of technology, Canvas, allowing me to do something better for the students.
+
+
 Tue Jan 19 09:31:49 PST 2021
 
 Think about a 5 minute interview for a class of 30.

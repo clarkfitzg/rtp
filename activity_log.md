@@ -11,6 +11,8 @@ This is an exhaustive list of professional activities inside and outside of teac
 
 ### Scholarly and Creative Activity
 
+- January working on R book with Nick and Deb
+
 ### Contributions to Institution / Community
 
 ### Unclassified
