@@ -1,9 +1,35 @@
+Tue Jan 26 13:35:42 PST 2021
+
+Watching Computing in the Statistics and Data Science webinar.
+Nick Horton and Jo Hardin
+Great talk.
+
+Idea: read a paper a week.
+
+Journal of Statistics and data science education.
+I need to start getting into that.
+
+
+Mon Jan 25 15:03:20 PST 2021
+
+Here's why I use Discord to supplement class activities:
+
+1. Students already use it.
+2. It preserves an easily searchable record.
+    Students can check to see if a question has been answered.
+3. Students can form their own groups, and float between groups.
+4. It has URL links to every post, useful for pointing out results.
+
+I involve the students in an activity during the first week of classes to set community expectations around online etiquette.
+This shows them where the boundaries are.
+
+
 Fri Jan 22 10:38:29 PST 2021
 
 I like the idea of having many small, regular assignments focused on self contained skills, and then larger "project" assignments that bring together many of these skills to do actual practical data analysis.
 Students tend to work at the last minute, despite their best intentions.
 There's a huge psychological difference between, "yeah, you should do these exercises on your own, for your own benefit" and "turn it in for credit".
-The latter is much better motivation.
+The credit is much better motivation.
 How often do I do the exercises if I'm casually reading some technical writing?
 Almost never.
 

@@ -1,3 +1,13 @@
+Thu Jan 28 09:07:38 PST 2021
+
+Great articles from the Journal of Statistics and Data Science Education, following a webinar.
+It's got me excited about doing some research in the field.
+I appreciate that the journal is open access.
+
+https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1862609
+https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1870416?src=&
+
+
 Wed Jul 15 13:28:34 PDT 2020
 
 I got my website up and going, and put a little content on there, enough to start.
