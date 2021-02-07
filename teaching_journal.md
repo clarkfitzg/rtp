@@ -1,3 +1,17 @@
+Sun Feb  7 10:51:08 PST 2021
+
+I added an open ended "challenge question" including a class competition for some minimal extra credit to keep the attention of the more advanced students in STAT196k.
+My first impressions are that it's working great.
+
+Another thing I received positive feedback on was letting students visually self assess where they are on the spectrum of computing proficiency.
+This clearly showed the diverse range of backgrounds people bring to this class.
+
+
+Sat Jan 30 11:04:37 PST 2021
+
+AWS is also nice for making the class more equitable, because a student with a big new computer has no advantage.
+
+
 Tue Jan 26 13:35:42 PST 2021
 
 Watching Computing in the Statistics and Data Science webinar.
