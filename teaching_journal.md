@@ -1,3 +1,21 @@
+Fri Mar  5 09:31:10 PST 2021
+
+I see these benefits of the iPad over the chalkboard:
+I distribute these notes via Canvas after class, so everyone has access. This means students can focus more on engaging and paying attention, rather than trying to write everything down.
+We spend less time writing definitions, and more time explaining underlying concepts.
+It forces me to design and prepare my lectures with more structure and purpose than they would have otherwise.
+There are many little features that improve the rhythm and experience of the presentation, like zooming to show detail, erasing, copying and pasting, switching colors, and highlighting.
+
+Discord- students using #off-topic to find roommate with same major.
+
+
+Fri Feb 12 15:24:08 PST 2021
+
+Wishing I did more with relational data in STAT 128.
+
+Discord is going well- got a few examples of students helping each other.
+
+
 Sun Feb  7 10:51:08 PST 2021
 
 I added an open ended "challenge question" including a class competition for some minimal extra credit to keep the attention of the more advanced students in STAT196k.

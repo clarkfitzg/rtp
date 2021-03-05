@@ -12,8 +12,11 @@ This is an exhaustive list of professional activities inside and outside of teac
 ### Scholarly and Creative Activity
 
 - January working on R book with Nick and Deb
+- February 3 students awarded SEE/IRA grant, two accepted
 
 ### Contributions to Institution / Community
+
+- March met with NCDSA nor cal data science alliance led by Robin Donatello from CSU Chico
 
 ### Unclassified
 
