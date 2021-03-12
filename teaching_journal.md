@@ -1,3 +1,11 @@
+Fri Mar 12 09:29:13 PST 2021
+
+Possible Zoom recordings for evaluation:
+
+- 12 March, STAT 50 - lots of Zoom annotations
+- 3 March, STAT 196K - more energy, bouncing back from surgery
+
+
 Fri Mar  5 09:31:10 PST 2021
 
 I see these benefits of the iPad over the chalkboard:
